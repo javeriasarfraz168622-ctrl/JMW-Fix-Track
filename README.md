@@ -14,5 +14,9 @@ JMW Fix Track is a mobile repair shop management system designed to manage repai
 
 Documentation:
 - Software Requirements Specification (SRS)
+- Entity Relationship Diagram (ERD)
+- Class Diagram
+- Activity Diagram
+- Database Tables & Queries
 
 Learning Journey: Learning, Growing & Building!
