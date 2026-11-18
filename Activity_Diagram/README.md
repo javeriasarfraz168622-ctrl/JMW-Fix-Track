@@ -1,17 +1,18 @@
-Activity Diagram
-Project: JMW Fix Track – Mobile Repair Shop Tracker
+# Activity Diagram
+
+## Project: JMW Fix Track – Mobile Repair Shop Tracker
 
 This folder contains the Activity Diagram of my semester project.
 
 The Activity Diagram represents the workflow of the system, including activities, decisions, and interactions between different users.
 
-Main Actors
+### Main Actors
 - Customer
 - Admin
 - Technician
 - System
 
-Main Activities
+### Main Activities
 - Submit Repair Request
 - Assign Technician
 - Inspect Mobile
@@ -21,7 +22,7 @@ Main Activities
 - Process Payment
 - Deliver Repaired Mobile
 
-Course
+### Course
 Software Engineering
 
 ### Project Type
